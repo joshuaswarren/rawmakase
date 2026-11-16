@@ -7,7 +7,6 @@
 - [@BlueBlock](https://github.com/BlueBlock)
 - [@claude](https://github.com/claude)
 - [@dmortell](https://github.com/dmortell)
-- [@Jah-yee](https://github.com/Jah-yee)
 - [@LamplighterPaul](https://github.com/LamplighterPaul)
 - [@lszl84](https://github.com/lszl84)
 - [@lukewalker2010](https://github.com/lukewalker2010)
